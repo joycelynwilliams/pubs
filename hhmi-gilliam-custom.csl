@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="en-US">
+<info><title>HHMI Gilliam - User-provided reference format</title><id>urn:uuid:92b99ed3-5c58-4cd8-b1de-0fc3542efc72</id><category citation-format="numeric"/><updated>2026-10-25T00:00:00+00:00</updated><summary>Custom unofficial style: all authors, title, year, PMID. Numeric in-text citations are a configurable default.</summary></info>
+<citation><sort><key variable="citation-number"/></sort><layout prefix="[" suffix="]" delimiter=", "><text variable="citation-number"/></layout></citation>
+<bibliography><layout suffix="."><group delimiter=" "><names variable="author" suffix="."><name name-as-sort-order="all" sort-separator=" " initialize-with="" delimiter=", "/></names><text variable="title" suffix="."/><date variable="issued" prefix="(" suffix=")"><date-part name="year"/></date><text variable="PMID" prefix="PMID: "/></group></layout></bibliography>
+</style>
